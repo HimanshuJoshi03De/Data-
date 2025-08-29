@@ -1,9 +1,9 @@
 # Zomato-Analysis
 
-#INTRODUCTION -
+# INTRODUCTION -
  The Zomato Analytics project focuses on analyzing Zomato restaurants across the globe to evaluate country-specific performance based on key parameters such as location, cuisine, average cost, online delivery, and table booking availability. The analysis provides actionable insights to support business decisions and identify areas of improvement.
 
-#Objectives:
+# Objectives:
 
  1. Identify Key Performance Indicators (KPIs) for restaurant analysis.
 
