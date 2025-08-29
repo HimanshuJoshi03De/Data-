@@ -4,6 +4,7 @@ INTRODUCTION -
  The Zomato Analytics project focuses on analyzing Zomato restaurants across the globe to evaluate country-specific performance based on key parameters such as location, cuisine, average cost, online delivery, and table booking availability. The analysis provides actionable insights to support business decisions and identify areas of improvement.
 
 Objectives:
+
  1.Identify Key Performance Indicators (KPIs) for restaurant analysis.
 
 2.Calculate the number of restaurants by city and country.
@@ -16,23 +17,24 @@ Objectives:
 
 6.Categorize restaurants into price buckets and assess distribution.
 Data Overview:
+
 The project utilizes multiple tables including country, currency exchange rate, calendar, and restaurants data to perform comprehensive analysis.
 
 Process Involved:
 
-1.Data cleaning and preparation.
+ 1. Data cleaning and preparation.
 
-2.Identifying important columns and features.
+ 2. Identifying important columns and features.
 
-3.Handling null and missing values.
+ 3. Handling null and missing values.
 
-4.Data modeling and table connections.
+ 4. Data modeling and table connections.
 
-5.Identifying key value indicators.
+ 5. Identifying key value indicators.
 
-6.Creating calculated measures and columns.
+ 6. Creating calculated measures and columns.
 
-7.Data visualization and dashboard creation.
+ 7. Data visualization and dashboard creation.
 
 Tools Used:
 
@@ -71,4 +73,5 @@ Recommendations:
 4.Focus on enhancing restaurant ratings in India.
 
 Summary:
+
 This project provided hands-on experience in analyzing restaurant data and extracting actionable insights to support data-driven decision-making. I gained proficiency in tools and techniques including Advanced Excel, Power Query Editor, Pivot Tables, Data Modeling, SQL, Power BI, DAX, and data visualization. This project strengthened my ability to clean data, handle missing values, merge tables, identify KPIs, and create interactive dashboards, contributing to my growth as a data-driven professional.
